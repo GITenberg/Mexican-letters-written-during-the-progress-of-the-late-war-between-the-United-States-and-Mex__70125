@@ -1,0 +1,37 @@
+_repo: Mexican-letters-written-during-the-progress-of-the-late-war-between-the-United-States-and-Mex__70125
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brackenridge, H. M. (Henry Marie)
+    aliases:
+    - Brackenridge, Henry Marie
+    - Breckenridge, Henry M. (Henry Marie)
+    - Breckinridge, Henry M. (Henry Marie)
+    birthdate: 1786
+    deathdate: 1871
+    gutenberg_agent_id: '55610'
+    url: http://www.gutenberg.org/2009/agents/55610
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Marie_Brackenridge
+description: ''
+gutenberg_issued: '2023-02-24'
+identifiers:
+  gutenberg: '70125'
+language: en
+pgterms:marc905: 20220415194550brackenrid
+pgterms:marc906: '1850'
+pgterms:marc907: US
+production_note: Barry Abrahamsen and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aUnited States :$bRobert A. Waters, $c1850.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Politics and government -- 1845-1849'
+- !lcsh 'Mexican War, 1846-1848'
+- !lcc 'E300'
+- GITenberg
+title: Mexican letters written during the progress of the late war between the United
+  States and Mexico, no. 1.
+url: http://www.gutenberg.org/ebooks/70125
